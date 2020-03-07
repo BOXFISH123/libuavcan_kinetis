@@ -1,4 +1,7 @@
 # libuavcan_kinetis
+
+**[!!! THIS REPOSITORY HAS MOVED !!!](https://github.com/UAVCAN/platform_specific_components/tree/legacy-v0)**
+
 Libuavcan platform driver for Kinetis FlexCAN
 
 The repository contains the Kinetis FlexCAN platform driver for Libuavcan on NuttX. 
